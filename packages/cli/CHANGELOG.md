@@ -1,5 +1,11 @@
 # vercel
 
+## 31.2.2
+
+### Patch Changes
+
+- Migrate list command to new structure ([#10284](https://github.com/vercel/vercel/pull/10284))
+
 ## 31.2.1
 
 ### Patch Changes
